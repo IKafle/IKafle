@@ -3,7 +3,7 @@
 ## 🚀 Principal Software Engineer | Technology Enthusiast
 
 ### 💼 Professional Summary
-Passionate Principal Software Engineer at Lis Nepal with extensive expertise in full-stack development and software architecture. Specializing in creating robust, scalable solutions across multiple technologies.
+Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) with extensive expertise in full-stack development and software architecture. Specializing in creating robust, scalable solutions across multiple technologies.
 
 ---
 
