@@ -1,11 +1,21 @@
-# Hi there, I'm Ishwor Kafle 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+</p>
+<p align="center">
+  <h1 align="left">Welcome to My GitHub Profile!</h1>
+  <p align="left">💻 Principal Software Engineer | 🚀 Tech Enthusiast | 🌍 Lifelong Learner</p>
+</p>
 
-## 🚀 Principal Software Engineer | Full-Stack Developer | Cloud Enthusiast
+### 🚀 About Me  
 
-### 💼 Professional Summary
-Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) with extensive expertise in full-stack development and software architecture. Specializing in creating robust, scalable solutions across multiple technologies.
+Hi, I'm **Ishwor Kafle**!  
+- 🔭 Principal Software Engineer at **Lis Nepal**  
+- 💻 I specialize in full-stack development, scalable system design, and cloud architecture.  
+- 🌱 Currently exploring **data-intensive applications** and **AWS Cloud Technologies**.  
+- 🎯 Always striving to innovate and mentor fellow developers.  
 
 ---
+
 ### 🧰 Toolbox  
 
 #### Programming Languages  
@@ -44,7 +54,10 @@ Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) 
 
 ---
 
-### 🚧 Notable Projects  
+### 🚧 Notable Projects 
+
+![Coding gif](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)  
+
 1. **[Dunnesstores](https://dunnesstores.com)** - Scalable e-commerce platform driving exceptional customer experiences.  
 2. **Raizor [Spryker Based E-Commerce](https://spryker.com/)** - Comprehensive e-commerce solution for diverse client needs.  
 3. **[Nepse](https://www.nepalstock.com.np/)** - National Stock exchange application simplifying financial data for traders and analysts.  
@@ -59,7 +72,7 @@ Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) 
 
 ---
 
-### 🌟 Fun Facts & Hobbies  
+### 🌟 Fun Facts & Hobbies
 - 🌍 Passionate about exploring different cultures through travel and food.  
 - 📚 Avid reader of tech blogs, finance books, and science fiction.  
 - 🎮 Occasionally indulge in strategic video games to unwind.  
@@ -76,9 +89,11 @@ Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) 
 
 Looking to contribute to open-source or build something amazing together? Feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwor-kafle-7b66b710b/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5735514/ishwor-kafley)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishworkafs@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ishwor-kafle-7b66b710b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/5735514/ishwor-kafley"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="mailto:ishworkafs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
