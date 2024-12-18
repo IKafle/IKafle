@@ -29,7 +29,7 @@ Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) 
 
 ### 🚧 Notable Projects  
 1. **[Dunnesstores](https://dunnesstores.com)** - Scalable e-commerce platform driving exceptional customer experiences.  
-2. **Raizor** - Comprehensive e-commerce solution for diverse client needs.  
+2. **Raizor [Spryker Based E-Commerce](https://spryker.com/)** - Comprehensive e-commerce solution for diverse client needs.  
 3. **[Nepse](https://www.nepalstock.com.np/)** - National Stock exchange application simplifying financial data for traders and analysts.  
 
 ---
