@@ -9,7 +9,7 @@
 ### 🚀 About Me  
 
 Hi, I'm **Ishwor Kafle**!  
-- 🔭 Principal Software Engineer at **Lis Nepal**  
+- 🔭 Principal Software Engineer at **[Lis Nepal](https://lisnepal.com.np/)**  
 - 💻 I specialize in full-stack development, scalable system design, and cloud architecture.  
 - 🌱 Currently exploring **data-intensive applications** and **AWS Cloud Technologies**.  
 - 🎯 Always striving to innovate and mentor fellow developers.  
