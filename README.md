@@ -5,6 +5,8 @@
 ### 💼 Professional Summary
 Passionate Principal Software Engineer at Lis Nepal with extensive expertise in full-stack development and software architecture. Specializing in creating robust, scalable solutions across multiple technologies.
 
+---
+
 ### 🛠️ Technology Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -21,14 +23,14 @@ Passionate Principal Software Engineer at Lis Nepal with extensive expertise in 
 ### 🏆 Certifications & Achievements  
 - 🏅 **Vtex Developers Certification**  
 - ☁️ Continuous learning in **AWS Cloud Technologies**  
-- 🧩 Advanced problem-solving on **Leetcode**  
+- 🧩 Problem-solving on **Leetcode**  
 
 ---
 
 ### 🚧 Notable Projects  
 1. **[Dunnesstores](https://dunnesstores.com)** - Scalable e-commerce platform driving exceptional customer experiences.  
 2. **Raizor** - Comprehensive e-commerce solution for diverse client needs.  
-3. **Nepse** - Stock exchange application simplifying financial data for traders and analysts.  
+3. **[Nepse](https://www.nepalstock.com.np/)** - National Stock exchange application simplifying financial data for traders and analysts.  
 
 ---
 
@@ -52,12 +54,12 @@ Passionate Principal Software Engineer at Lis Nepal with extensive expertise in 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishworkafs@gmail.com)
 
 ### 📊 GitHub Stats
-![Ishwor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncitIshwor&show_icons=true&theme=radical&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncitIshwor&layout=compact&theme=radical&hide_border=true)
+![Ishwor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IKafle&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IKafle&layout=compact&theme=radical&hide_border=true)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncitIshwor&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IKafle&theme=radical&hide_border=true)
 
 ---
 
-⭐ From [Ishwor Kafle](https://github.com/ncitIshwor)
+⭐ From [Ishwor Kafle](https://github.com/IKafle)
