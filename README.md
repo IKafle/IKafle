@@ -48,10 +48,22 @@ Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) 
 - 🎮 Occasionally indulge in strategic video games to unwind.  
 
 ---
+
+### 🌐 Languages  
+- 🇬🇧 English (Professional)  
+- 🇳🇵 Nepali (Native)
+  
+--- 
+
 ### 📬 Connect with Me
+
+Looking to contribute to open-source or build something amazing together? Feel free to connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwor-kafle-7b66b710b/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5735514/ishwor-kafley)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishworkafs@gmail.com)
+
+---
 
 ### 📊 GitHub Stats
 ![Ishwor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IKafle&show_icons=true&theme=radical&count_private=true&hide_border=true)
@@ -63,3 +75,5 @@ Passionate Principal Software Engineer at [Lis Nepal](https://lisnepal.com.np/) 
 ---
 
 ⭐ From [Ishwor Kafle](https://github.com/IKafle)
+
+---
