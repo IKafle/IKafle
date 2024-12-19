@@ -115,6 +115,11 @@ Looking to contribute to open-source or build something amazing together? Feel f
 
 ---
 
+### 👀 Visitor Count  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=IKafle.IKafle)  
+
+---
+
 ⭐ From [Ishwor Kafle](https://github.com/IKafle)
 
 ---
