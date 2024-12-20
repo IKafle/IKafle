@@ -96,7 +96,7 @@ Hi, I'm **Ishwor Kafle**!
 
 ### 📬 Connect with Me
 
-Looking to contribute to open-source or build something amazing together? Feel free to connect!
+Looking to build something amazing together? Feel free to connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ishwor-kafle-7b66b710b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
