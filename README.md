@@ -87,12 +87,13 @@ Hi, I'm **Ishwor Kafle**!
 
 ### ✍️ Latest Articles  
 <p align="left">
-  <a href="https://ishwor.hashnode.dev/setting-up-multiple-ssh-keys-for-github-on-linux">
-    <img src="https://img.shields.io/badge/How%20to%20Manage%20Multiple%20SSH%20Keys%20in%20Linux-%2300B9B9?style=for-the-badge&logo=hashnode&logoColor=white" alt="How to Manage Multiple SSH Keys in Linux" />
-  <br/>
-  <a href="https://ishwor.hashnode.dev/chainmap">
-    <img src="https://img.shields.io/badge/Python%20ChainMap-%2300B9B9?style=for-the-badge&logo=hashnode&logoColor=white" alt="Python ChainMap" />
-  </a>
+    <a href="https://ishwor.hashnode.dev/setting-up-multiple-ssh-keys-for-github-on-linux">
+        <img src="https://img.shields.io/badge/🔑%20How%20to%20Manage%20Multiple%20SSH%20Keys%20in%20Linux-%23404d59?style=for-the-badge&logo=github&logoColor=white" alt="How to Manage Multiple SSH Keys in Linux" />
+    </a>
+    <br/>
+    <a href="https://ishwor.hashnode.dev/chainmap">
+        <img src="https://img.shields.io/badge/🔄%20Python%20ChainMap%20Explained-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python ChainMap" />
+    </a>
 </p>
 
 ---
