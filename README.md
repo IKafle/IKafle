@@ -66,7 +66,7 @@ Hi, I'm **Ishwor Kafle**!
 ---
 
 ### 🌱 Current Focus Areas  
-- **AWS Cloud Architecture**  
+- ☁️ **AWS Cloud Architecture**  
 - 🖥️ Advanced System Design  
 - 📊 Designing Data-Intensive Applications  
 - 🌐 Personal Portfolio Development  
