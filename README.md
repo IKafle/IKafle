@@ -95,11 +95,16 @@ Hi, I'm **Ishwor Kafle**!
     <a href="https://ishwor.hashnode.dev/chainmap">
         <img src="https://img.shields.io/badge/🔄%20Python%20ChainMap%20Explained-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python ChainMap" />
     </a>
-  <br/>
-  <a href="https://ishwor.hashnode.dev/python-walrus-operator">
+    <br/>
+    <a href="https://ishwor.hashnode.dev/python-walrus-operator">
         <img src="https://img.shields.io/badge/🦭%20The%20Walrus%20Operator%20(:=)%20in%20Python-%23306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Walrus Operator" />
     </a>
+    <br/>
+    <a href="https://ishwor.hashnode.dev/defaultdict">
+        <img src="https://img.shields.io/badge/📌%20The%20True%20Power%20of%20defaultdict%20in%20Python-%232CA5E0?style=for-the-badge&logo=python&logoColor=white" alt="Python defaultdict" />
+    </a>
 </p>
+
 
 ---
 
